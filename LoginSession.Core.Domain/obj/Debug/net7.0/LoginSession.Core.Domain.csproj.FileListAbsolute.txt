@@ -1,0 +1,11 @@
+E:\api\LoginSession\LoginSession.Core.Domain\bin\Debug\net7.0\LoginSession.Core.Domain.deps.json
+E:\api\LoginSession\LoginSession.Core.Domain\bin\Debug\net7.0\LoginSession.Core.Domain.dll
+E:\api\LoginSession\LoginSession.Core.Domain\bin\Debug\net7.0\LoginSession.Core.Domain.pdb
+E:\api\LoginSession\LoginSession.Core.Domain\obj\Debug\net7.0\LoginSession.Core.Domain.GeneratedMSBuildEditorConfig.editorconfig
+E:\api\LoginSession\LoginSession.Core.Domain\obj\Debug\net7.0\LoginSession.Core.Domain.AssemblyInfoInputs.cache
+E:\api\LoginSession\LoginSession.Core.Domain\obj\Debug\net7.0\LoginSession.Core.Domain.AssemblyInfo.cs
+E:\api\LoginSession\LoginSession.Core.Domain\obj\Debug\net7.0\LoginSession.Core.Domain.csproj.CoreCompileInputs.cache
+E:\api\LoginSession\LoginSession.Core.Domain\obj\Debug\net7.0\LoginSession.Core.Domain.dll
+E:\api\LoginSession\LoginSession.Core.Domain\obj\Debug\net7.0\refint\LoginSession.Core.Domain.dll
+E:\api\LoginSession\LoginSession.Core.Domain\obj\Debug\net7.0\LoginSession.Core.Domain.pdb
+E:\api\LoginSession\LoginSession.Core.Domain\obj\Debug\net7.0\ref\LoginSession.Core.Domain.dll

@@ -1,0 +1,39 @@
+﻿@using LoginSession.Core.Application.ViewModels.Users
+@model List<UserViewModel>
+
+@{
+    ViewData["Title"] = "Mantenimiento";
+}
+<div class="container-fluid">
+
+    <div class="row mb-3">
+        <div class="col-3 offset-10">
+            <a asp-controller="MUser" asp-action="Create" class="btn btn-outline-success">Crear un nuevo Usuario</a>
+        </div>
+    </div>
+
+    <div class="row">
+
+        @if (Model == null || Model.Count == 0)
+        {
+            <h2>No hay Usuarios</h2>
+        }
+        else
+        {
+            @foreach (var item in Model)
+            {
+
+                <div class="col-md-4">
+                    <div class="card mb-4 box-shadow">
+                        <div class="card-body">
+                            <h4>@item.UserName</h4>
+                            <div class="btn-group">
+                                <a asp-controller="MUser" asp-action="Delete" asp-route-Id="@item.Id" class="btn btn-sm btn-outline-danger">Borrar</a>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            }
+        }
+    </div>
+</div>

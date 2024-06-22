@@ -1,0 +1,22 @@
+﻿@model LoginSession.Core.Application.ViewModels.Users.SaveUserViewModel
+
+@{
+    ViewData["Title"] = "Eliminar Usuario";
+}
+
+<div class="row">
+    <div class="col-6 offset-3">
+        <div class="card">
+            <div class="card-header bg-danger text-light">
+                <h4>¿Está seguro que desea eliminar al usuario @Model.UserName?</h4>
+            </div>
+            <div class="card-body">
+                <form method="post" asp-controller="MUser" asp-action="DeletePost">
+                    <input type="hidden" asp-for="Id" />
+                    <button type="submit" class="btn btn-danger">Eliminar</button>
+                    <a asp-controller="MUser" asp-action="Index" class="btn btn-warning">Cancelar</a>
+                </form>
+            </div>
+        </div>
+    </div>
+</div>

@@ -1,0 +1,17 @@
+E:\api\LoginSession\LoginSession.Infrastructure.Persistence\bin\Debug\net7.0\LoginSession.Infrastructure.Persistence.deps.json
+E:\api\LoginSession\LoginSession.Infrastructure.Persistence\bin\Debug\net7.0\LoginSession.Infrastructure.Persistence.dll
+E:\api\LoginSession\LoginSession.Infrastructure.Persistence\bin\Debug\net7.0\LoginSession.Infrastructure.Persistence.pdb
+E:\api\LoginSession\LoginSession.Infrastructure.Persistence\bin\Debug\net7.0\LoginSession.Core.Application.dll
+E:\api\LoginSession\LoginSession.Infrastructure.Persistence\bin\Debug\net7.0\LoginSession.Core.Domain.dll
+E:\api\LoginSession\LoginSession.Infrastructure.Persistence\bin\Debug\net7.0\LoginSession.Core.Application.pdb
+E:\api\LoginSession\LoginSession.Infrastructure.Persistence\bin\Debug\net7.0\LoginSession.Core.Domain.pdb
+E:\api\LoginSession\LoginSession.Infrastructure.Persistence\obj\Debug\net7.0\LoginSession.Infrastructure.Persistence.csproj.AssemblyReference.cache
+E:\api\LoginSession\LoginSession.Infrastructure.Persistence\obj\Debug\net7.0\LoginSession.Infrastructure.Persistence.GeneratedMSBuildEditorConfig.editorconfig
+E:\api\LoginSession\LoginSession.Infrastructure.Persistence\obj\Debug\net7.0\LoginSession.Infrastructure.Persistence.AssemblyInfoInputs.cache
+E:\api\LoginSession\LoginSession.Infrastructure.Persistence\obj\Debug\net7.0\LoginSession.Infrastructure.Persistence.AssemblyInfo.cs
+E:\api\LoginSession\LoginSession.Infrastructure.Persistence\obj\Debug\net7.0\LoginSession.Infrastructure.Persistence.csproj.CoreCompileInputs.cache
+E:\api\LoginSession\LoginSession.Infrastructure.Persistence\obj\Debug\net7.0\LoginSession.Infrastructure.Persistence.csproj.CopyComplete
+E:\api\LoginSession\LoginSession.Infrastructure.Persistence\obj\Debug\net7.0\LoginSession.Infrastructure.Persistence.dll
+E:\api\LoginSession\LoginSession.Infrastructure.Persistence\obj\Debug\net7.0\refint\LoginSession.Infrastructure.Persistence.dll
+E:\api\LoginSession\LoginSession.Infrastructure.Persistence\obj\Debug\net7.0\LoginSession.Infrastructure.Persistence.pdb
+E:\api\LoginSession\LoginSession.Infrastructure.Persistence\obj\Debug\net7.0\ref\LoginSession.Infrastructure.Persistence.dll

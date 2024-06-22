@@ -1,0 +1,15 @@
+E:\api\LoginSession\LoginSession.Core.Application\bin\Debug\net7.0\LoginSession.Core.Application.deps.json
+E:\api\LoginSession\LoginSession.Core.Application\bin\Debug\net7.0\LoginSession.Core.Application.dll
+E:\api\LoginSession\LoginSession.Core.Application\bin\Debug\net7.0\LoginSession.Core.Application.pdb
+E:\api\LoginSession\LoginSession.Core.Application\bin\Debug\net7.0\LoginSession.Core.Domain.dll
+E:\api\LoginSession\LoginSession.Core.Application\bin\Debug\net7.0\LoginSession.Core.Domain.pdb
+E:\api\LoginSession\LoginSession.Core.Application\obj\Debug\net7.0\LoginSession.Core.Application.csproj.AssemblyReference.cache
+E:\api\LoginSession\LoginSession.Core.Application\obj\Debug\net7.0\LoginSession.Core.Application.GeneratedMSBuildEditorConfig.editorconfig
+E:\api\LoginSession\LoginSession.Core.Application\obj\Debug\net7.0\LoginSession.Core.Application.AssemblyInfoInputs.cache
+E:\api\LoginSession\LoginSession.Core.Application\obj\Debug\net7.0\LoginSession.Core.Application.AssemblyInfo.cs
+E:\api\LoginSession\LoginSession.Core.Application\obj\Debug\net7.0\LoginSession.Core.Application.csproj.CoreCompileInputs.cache
+E:\api\LoginSession\LoginSession.Core.Application\obj\Debug\net7.0\LoginSession.Core.Application.csproj.CopyComplete
+E:\api\LoginSession\LoginSession.Core.Application\obj\Debug\net7.0\LoginSession.Core.Application.dll
+E:\api\LoginSession\LoginSession.Core.Application\obj\Debug\net7.0\refint\LoginSession.Core.Application.dll
+E:\api\LoginSession\LoginSession.Core.Application\obj\Debug\net7.0\LoginSession.Core.Application.pdb
+E:\api\LoginSession\LoginSession.Core.Application\obj\Debug\net7.0\ref\LoginSession.Core.Application.dll
