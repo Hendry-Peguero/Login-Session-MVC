@@ -21,5 +21,5 @@ La aplicación está desarrollada con ASP.NET MVC y utiliza Entity Framework Cor
 - **Inyección de Dependencias:** Facilita la gestión y resolución de dependencias dentro del proyecto.
 - **Uso de Genéricos:** Implementa repositorios genéricos para una gestión más eficiente de los datos.
 
-![Login](./Login.png)
-![Lista de Usuarios](./Mantenimiento.png)
+![Login](https://github.com/Hendry-Peguero/Login-Session-MVC/assets/140771892/c5602789-c59a-4f72-a365-58c1fea07531)
+![Mantenimiento](https://github.com/Hendry-Peguero/Login-Session-MVC/assets/140771892/9dce1b1a-557e-4be6-a15a-3a22dd64964e)
